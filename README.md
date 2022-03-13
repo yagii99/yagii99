@@ -24,7 +24,7 @@
 
 ## Cool Things About Me
 - 🕶  C# is currently my most utilized coding language
-- 💻Unity3d Blender and visual studio are my frequently used softwares
+- 💻 Unity3d, Blender and visual studio are my frequently used softwares
 - 🌱 My focus is utilizing my development skills and enhancing my knowledge
 - 👯 I’m looking to collaborate on projects that will improve my skills
 - 🍗 Fun fact: I love cooking, Shawarma (lebanese dishes) is my favorite food

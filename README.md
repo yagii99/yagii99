@@ -10,18 +10,19 @@
 ### Unity 3D, Blender, Maya, C#, Java, Python, C, C++, mysql, Flutter, Linux, Photoshop, Illustrator ...
 
 ## My Projects:
-###
+### **3d terrain reconstruction**: the idea is to take a video of a terrain or object and try to estimate the 3d shape using my knowledge in image processing, 3d data analysis, machine learning,... by SfM.
 
-## Work Experience:
+## Work Experiences:
 ### I am used to learn programming languages by myself (C#, C++, Java, Python), many students asked me to teach them so I started my career as a **Freelance programming teacher**.👨‍💻
 ### I am also experienced in **repairing mobiles/laptops softwares and hardwares**, in addition to that I am an **application developper using Java and flutter**.📱
 ### Now I am a **Virtual Reality Intern**, my highlights are unity3D, Blender and autodesk maya for this internship.🥽🎮
 
 ## Cool Things About Me
-- 🕶  C# is currently my most utilized coding language, Unity3d and Blender are my friends 
+- 🕶  C# is currently my most utilized coding language
+- 💻Unity3d Blender and visual studio are my frequently used softwares
 - 🌱 My focus is utilizing my development skills and enhancing my knowledge
-- 👯 I’m looking to collaborate on projects that will improve my skills!
-- 🍗 Fun fact: I love cooking, Shawarma (lebanese dishes) is my favorite food!
+- 👯 I’m looking to collaborate on projects that will improve my skills
+- 🍗 Fun fact: I love cooking, Shawarma (lebanese dishes) is my favorite food
 
 
 <!--

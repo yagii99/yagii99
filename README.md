@@ -36,6 +36,9 @@
 - 🍗 Fun fact: I love cooking, Shawarma (lebanese dishes) is my favorite food
 
 ### You can check out the repository of my colleague [here](https://github.com/0had0)
+![ross](https://github.com/yagii99/yagii99/blob/main/assets/ross.gif)
+
+# See You 👋
 <!--
 **yagii99/yagii99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -21,8 +21,11 @@
 
 #### Foodbook Application: using Flutter, Making it easy for clients to share recipes and track their calories need. repository [here](https://github.com/yagii99/foodbook)
 
+![foodbook](https://github.com/yagii99/foodbook/blob/main/Assets/image.png)
+
 #### GameLounge management System: a software using C# (database based on mysql) to manage a game lounge system. repository [here](https://github.com/yagii99/GameLounge-management-system)
 
+![gaming lounge](https://github.com/yagii99/GameLounge-management-system/blob/main/Assets/software%20example.jpg)
 ## Work Experiences:
 #### I am used to learn programming languages by myself (C#, C++, Java, Python), many students asked me to teach them so I started my career as a **Freelance programming teacher**.👨‍💻
 #### I am also experienced in **repairing mobiles/laptops softwares and hardwares**, in addition to that I am an **application developper using Java and flutter**.📱

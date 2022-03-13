@@ -11,6 +11,7 @@
 
 ## My Projects:
 ### 3d terrain reconstruction: the idea was to take a video of a terrain or object and try to estimate the 3d shape using my knowledge in image processing, 3d data analysis, machine learning,... by SfM. You can check the repository here: https://github.com/yagii99/terrain-3d-reconstruction, read my article if interested 😉 a small demo: 
+<img src="https://github.com/yagii99/yagii99/blob/main/assets/reconstruction.gif" />
 
 ### Foodbook Application: using Flutter, Making it easy for clients to share recipes and track their calories need. repository: https://github.com/yagii99/foodbook
 

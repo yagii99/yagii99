@@ -15,7 +15,7 @@
 
 ### Foodbook Application: using Flutter, Making it easy for clients to share recipes and track their calories need. repository: https://github.com/yagii99/foodbook
 
-### GameLounge management System: a software using C# (database based on mysql) to manage a game lounge system, repository: https://github.com/yagii99/GameLounge-management-system
+### GameLounge management System: a software using C# (database based on mysql) to manage a game lounge system. repository: https://github.com/yagii99/GameLounge-management-system
 ### oscar Prediction: a Machine learning algorithm that takes a csv file a list of movies and try to predict whether a movie will win an Oscar or not. repository: https://github.com/yagii99/Oscar-Prediciton
 
 ## Work Experiences:

@@ -7,8 +7,13 @@
 ### Feel free to ask me about any of my repositories or projects.💬
 
 ## My skills:
-### Unity 3D, Blender, Maya, C#, Java, Python, C, C++, mysql, Flutter, Linux, Photoshop, Illustrator ...
 
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="80" height="30" /> <img src="https://github.com/yagii99/yagii99/blob/main/assets/maya%20logo.jpg" width="80" height="30" /> <img src= "https://github.com/yagii99/yagii99/blob/main/assets/blender%20logo.jpg" width="80" height="30" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="60" height="30" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="90" height="30" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="80" height="30" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="60" height="30" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="80" height="30" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="30" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="90" height="30" /> <img src="https://aleen42.github.io/badges/src/photoshop.svg" width="110" height="30" /> <img src="https://aleen42.github.io/badges/src/illustrator.svg" width="110" height="30" />
+
+I work on:
+
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## My top Projects:
 ### 3d terrain reconstruction: the idea was to take a video of a terrain or object and try to estimate the 3d shape using my knowledge in image processing, 3d data analysis, machine learning,... by SfM. You can check the repository here: https://github.com/yagii99/terrain-3d-reconstruction, read my article if interested 😉 a small demo: 
 <img src="https://github.com/yagii99/yagii99/blob/main/assets/reconstruction.gif" />

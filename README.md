@@ -3,7 +3,7 @@
 ## Welcome to my repo! 👽  I would like to share with you some of my skills, personal projects and work experiences.
 
 ## About me:
-### I am a telecommunication engineer and machine vision and artificial intelligence engineer. <br/> now I am working with extended reality.👨‍💻
+### I am a Computer & Telecommunication Engineer and Machine Vision & Artificial Intelligence Engineer. <br/> now I am working with extended reality.👨‍💻
 ### Feel free to ask me about any of my repositories or projects.💬
 
 ## My skills:

@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="500" height="300" />
+<img src="https://github.com/yagii99/yagii99/blob/main/assets/hello%20world.webp" width="500" height="300" />
 
 ## Welcome to my repo! 👽  I would like to share with you some of my skills, personal projects and work experiences.
 

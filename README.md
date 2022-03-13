@@ -1,9 +1,9 @@
-## Hello world! 👋
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="500" height="300" />
 
-### Welcome 👽  I would like to share with you some of my skills, personal projects and work experiences.
+## Welcome to my repo! 👽  I would like to share with you some of my skills, personal projects and work experiences.
 
 ## About me:
-### I am a telecommunication engineer, machine vision and artificial intelligence engineer, now I am working with extended reality.👨‍💻
+### I am a telecommunication engineer and machine vision and artificial intelligence engineer. <br/> now I am working with extended reality.👨‍💻
 ### Feel free to ask me about any of my repositories or projects.💬
 
 ## My skills:
@@ -18,14 +18,10 @@
 ### Now I am a **Virtual Reality Intern**, my highlights are unity3D, Blender and autodesk maya for this internship.🥽🎮
 
 ## Cool Things About Me
-- 🕶  C# is currently my most utilized coding language
-- 🌱 My focus is utilizing my development skills
-- 👯 I’m looking to collaborate on fun projects that will improve my skills!
-- 💬 Feel free to ask me about any of my repositories or projects.
-- 😄 Pronouns: He/Him, They/Them
-- 🍗 Fun fact: I love cooking really fun foods like Chicken Wings coated in Hot Cheetos.
-
-
+- 🕶  C# is currently my most utilized coding language, Unity3d and Blender are my friends 
+- 🌱 My focus is utilizing my development skills and enhancing my knowledge
+- 👯 I’m looking to collaborate on projects that will improve my skills!
+- 🍗 Fun fact: I love cooking, Shawarma (lebanese dishes) is my favorite food!
 
 
 <!--

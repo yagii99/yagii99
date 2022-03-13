@@ -35,7 +35,7 @@
 - 👯 I’m looking to collaborate on projects that will improve my skills
 - 🍗 Fun fact: I love cooking, Shawarma (lebanese dishes) is my favorite food
 
-## You can check out the repository of my colleague [here](https://github.com/0had0)
+### You can check out the repository of my colleague [here](https://github.com/0had0)
 <!--
 **yagii99/yagii99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
